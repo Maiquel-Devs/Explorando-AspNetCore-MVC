@@ -4,8 +4,9 @@ var app = builder.Build();                        // Constrói o aplicativo ASP.
 // Rota principal ("/")
 app.MapGet("/", () =>                             // Cria uma rota GET para o endereço raiz (http://localhost:5000/)
 {
-    // Retorna HTML
-    string html = @"                              // Cria uma string contendo o código HTML da página
+    
+    // Cria uma string contendo o código HTML da página
+    string html = @"                              
         <html>
             <head>
                 <title>Meu primeiro ASP.NET</title>
