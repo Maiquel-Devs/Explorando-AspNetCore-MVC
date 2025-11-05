@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\Asp.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1585575-79D5-4F27-9433-6AC94368A4CE}|ASP.Net_Projeto02_Rotas\\ASP.Net_Projeto02_Rotas.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\asp.net\\asp.net_projeto02_rotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1585575-79D5-4F27-9433-6AC94368A4CE}|ASP.Net_Projeto02_Rotas\\ASP.Net_Projeto02_Rotas.csproj|solutionrelative:asp.net_projeto02_rotas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\Asp.Net\\3506-csharpWeb-screensound-curso1-main\\ScreenSound\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3506-csharpWeb-screensound-curso1-main\\ScreenSound\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\Asp.Net\\ASP.Net_Projeto02_Rotas\\Program.cs",
-              "RelativeDocumentMoniker": "ASP.Net_Projeto02_Rotas\\Program.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\Asp.Net\\ASP.Net_Projeto02_Rotas\\Program.cs",
-              "RelativeToolTip": "ASP.Net_Projeto02_Rotas\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\Asp.Net\\3506-csharpWeb-screensound-curso1-main\\ScreenSound\\Program.cs",
+              "RelativeDocumentMoniker": "3506-csharpWeb-screensound-curso1-main\\ScreenSound\\Program.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\Asp.Net\\3506-csharpWeb-screensound-curso1-main\\ScreenSound\\Program.cs",
+              "RelativeToolTip": "3506-csharpWeb-screensound-curso1-main\\ScreenSound\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T19:38:25.274Z",
+              "WhenOpened": "2025-11-05T00:09:23.273Z",
               "EditorCaption": ""
             }
           ]

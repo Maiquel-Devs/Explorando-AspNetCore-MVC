@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.Net_Projeto02_Rotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1da486b26563ded94d2fbc36fe6d326945fbe0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1931231e5c8191f022e48812fcc44836931acad5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.Net_Projeto02_Rotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.Net_Projeto02_Rotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
