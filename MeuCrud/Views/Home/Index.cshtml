@@ -1,8 +1,39 @@
-﻿@{
-    ViewData["Title"] = "Home Page";
+﻿@using MeuCrud.Models
+@model IEnumerable<Pessoa>  // Prepara para lidar com vários registros de Pessoas (no banco de dados)
+
+@{
+    ViewData["Title"] = "Página Cadastro";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Cadastro de Pessoas</h1>
+
+<form asp-action="Adicionar" method="post">
+    <input name ="Nome", type="text" placeholder="Digite seu Nome" required />
+    <input name ="Idade", type="number" placeholder="Digite sua Idade" required />
+    <button type="submit">Adicionar</button>
+</form>
+
+
+<hr />
+
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Idade</th>
+    </tr>
+
+    @foreach (var p in (List<Pessoa>)ViewBag.Pessoas)
+    {
+        <tr>
+            <td>@p.Id</td>
+            <td>@p.Nome</td>
+            <td>@p.Idade</td>
+            <td>
+                <a asp-action="Editar" asp-rout-id = "@p.Id">Editar</a>     <!--Só envia o Id pro Controllers na Função Editar-->
+                <a asp-action = "Excluir" asp-rout-id = "@p.Id">Excluir</a> <!--Só envia o Id pro Controllers na Função Excluir-->
+            </td>
+        </tr>
+    }
+</table>

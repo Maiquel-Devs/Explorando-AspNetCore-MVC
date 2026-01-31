@@ -1,0 +1,26 @@
+@model Pessoa 
+
+@{
+    ViewData["Title"] = "Editar Pessoa";
+}
+
+
+<h1>Editar Pessoa</h1>
+
+<form asp-action="ConfirmarEdicao" method="post">
+    <input type="hidden" asp-for ="Id" />
+
+    <div>
+        <label>Nome Atual:</label>
+        <input type="text" asp-for="Nome" />    <!-- asp-for voçê usa para mudanças--> 
+    </div>
+
+    <div>
+        <label>Idade Atual:</label>
+        <input type="Number" asp-for="Idade" />   <!-- asp-for voçê usa para mudanças-->
+    </div>
+
+    <button type="submit">Salvar no Banco</button>
+    <a asp-action="Index">Cancelar</a>
+
+</form>

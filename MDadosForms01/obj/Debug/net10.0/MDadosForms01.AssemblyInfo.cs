@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MDadosForms01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+994af60dd6ca3102821aa958498f677c34cc97f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c6a8f96bc5d5554f9fd2561b2d69c2f9feb7a0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MDadosForms01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MDadosForms01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
